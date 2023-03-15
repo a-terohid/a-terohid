@@ -5,8 +5,8 @@ const AliTerohid = {
     language: ["javaScript", "typeScript"] // Node.js,         
     myStack: {             
         frontEnd: {                               
-          markup-language: [ "html" ] ,
-          style sheet: [ "css" ],
+          markupـlanguage: [ "html" ] ,
+          styleـsheet: [ "css" ],
           frameworks: [ "next.js", "sass", "react.js" ], 
           API: ["rest API", "GraphQL" ],
           
