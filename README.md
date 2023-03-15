@@ -1,7 +1,7 @@
 ```JavaScript
 const AliTerohid = {     
     pronouns: "He" | "Him",     
-    aboutMe: "I'm front-end Developer"
+    aboutMe: "I'm front-end Developer",
     language: ["javaScript", "typeScript"] // Node.js,         
     myStack: {             
         frontEnd: {                               
