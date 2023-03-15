@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**a-terohid/a-terohid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const AliTerohid = {     
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm front-end Developer"
+    language: ["javaScript", "typeScript"] // Node.js,         
+    myStack: {             
+        frontEnd: {                               
+          markup-language: [ "html] ,
+          style sheet: [ "css" ],
+          frameworks: [ "next.js", "sass", "react.js" ], 
+          API: ["rest API", "GraphQL" ],
+          
+        },         
+        backEnd: {             
+          message: "i'm not back-end developer 😁😁😁",         
+        },                     
+   },    
+   currentFocus: "front-end Web Development",     
+   funFact: "Bug's and Errors are my best friends" 
+};
