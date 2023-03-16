@@ -7,7 +7,8 @@ const AliTerohid = {
         frontEnd: {                               
           markupـlanguage: [ "html" ] ,
           styleـsheet: [ "css" ],
-          frameworks: [ "next.js", "sass", "react.js" ], 
+          frameworks: [ "next.js", "sass" ], 
+          libraries: [ "react.js" ],
           API: ["rest API", "GraphQL" ],
           
         },         
