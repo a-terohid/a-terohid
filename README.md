@@ -2,14 +2,14 @@
 const AliTerohid = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm front-end Developer",
-    language: ["javaScript", "typeScript"] // Node.js,         
+    language: ["JavaScript", "TypeScript"] // Node.js,         
     myStack: {             
         frontEnd: {                               
-          markupـlanguage: [ "html" ] ,
-          styleـsheet: [ "css" ],
-          frameworks: [ "next.js", "sass" ], 
-          libraries: [ "react.js" ],
-          API: ["rest API", "GraphQL" ],
+          markupـlanguage: [ "HTML" ] ,
+          styleـsheet: [ "CSS" ],
+          frameworks: [ "Next.js", "Sass" , "Tailwind CSS" ], 
+          libraries: [ "React.js" ],
+          API: ["Rest API", "GraphQL" ],
           
         },         
         backEnd: {             
